@@ -1,2 +1,2 @@
 # find_rsync
-foo
+Simple bash script that search for several files and then does an Rsync to a location
